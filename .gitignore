@@ -1,0 +1,8 @@
+
+# .NET i sensitive fajlovi
+bin/
+obj/
+*.user
+*.secrets.json
+*.env
+appsettings.*
